@@ -1,29 +1,42 @@
-# projet-portfolio
+# Portfolio Jessica Pean
 
-This template should help get you started developing with Vue 3 in Vite.
+## Description
+Ce projet est un portfolio personnel développé en Vue.js. Il présente mes compétences, mes réalisations, et permet aux visiteurs de me contacter.
 
-## Recommended IDE Setup
+## Technologies utilisées
+- Vue.js
+- HTML5
+- CSS3
+- GitHub
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Prérequis
+- Node.js (version 14 ou supérieure)
+- npm (version 6 ou supérieure)
 
-## Customize configuration
+## Installation et lancement
+1. Clonez ce dépôt :
+    ```bash
+    git clone https://github.com/Jesschica/ProjetPortfolio.git
+    ```
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+2. Accédez au répertoire du projet :
+    ```bash
+    cd ProjetPortfolio
+    ```
 
-## Project Setup
+3. Installez les dépendances :
+    ```bash
+    npm install
+    ```
 
-```sh
-npm install
-```
+4. Lancez l'application :
+    ```bash
+    npm run dev
+    ```
 
-### Compile and Hot-Reload for Development
+5. Ouvrez votre navigateur à l'adresse `http://localhost:5173`
 
-```sh
-npm run dev
-```
 
-### Compile and Minify for Production
+## Auteur
+Jessica Pean
 
-```sh
-npm run build
-```
