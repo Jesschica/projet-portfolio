@@ -1,0 +1,9 @@
+body {
+  background-color: #31569A;
+  font-family: 'poppins', serif;
+  font-size: 1.1em;
+  width: 70%;
+  margin: auto;
+}
+
+*{box-sizing: border-box;}
